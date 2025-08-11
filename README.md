@@ -42,15 +42,17 @@ Soy una persona curiosa, proactiva y con muchas ganas de seguir creciendo en el 
 |-----------------|----------------------------------------|-----------------------------------------|----------------------------------------|
 | Heroes Cercanos | Plataforma web para apoyar a Bomberos Voluntarios y la Comunidad. | [GitHub](https://github.com/HeroesCercanos) | [Render](https://heroes-cercanos-front.onrender.com/) |
 
-
+| Proyecto        | Descripción                              | GitHub                                   | Deploy                                  |
+|-----------------|----------------------------------------|-----------------------------------------|----------------------------------------|
+| VGB-STORE--Ecommerce | Tienda online con productos, filtros y carrito . |  https://github.com/VMGaray/VGB-STORE--Ecommerce.git )
 ---
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tano9703&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tano9703&layout=compact&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=VMGaray&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=VMGaray&layout=compact&theme=tokyonight)
 
 ---
-🔗 [E-commerce Tech] https://github.com/VMGaray/VGB-STORE--Ecommerce.git – Tienda online con productos, filtros y carrito  
+
 
 
 ---
