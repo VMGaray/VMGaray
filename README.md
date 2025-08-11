@@ -25,7 +25,7 @@ Soy una persona curiosa, proactiva y con muchas ganas de seguir creciendo en el 
 
 ### 📁 Proyectos destacados
 
-🔗 [Héroes Cercanos] – Plataforma solidaria para conectar donantes con cuarteles de bomberos  
+🔗 [Héroes Cercanos] – https://heroes-cercanos-front.onrender.com/ - Plataforma solidaria para conectar donantes con cuarteles de bomberos  
 🔗 [E-commerce Tech] https://github.com/VMGaray/VGB-STORE--Ecommerce.git – Tienda online con productos, filtros y carrito  
 
 
