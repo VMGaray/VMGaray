@@ -42,8 +42,8 @@ Soy una persona curiosa, proactiva y con muchas ganas de seguir creciendo en el 
 |-----------------|----------------------------------------|-----------------------------------------|----------------------------------------|
 | Heroes Cercanos | Plataforma web para apoyar a Bomberos Voluntarios y la Comunidad. | [GitHub](https://github.com/HeroesCercanos) | [Render](https://heroes-cercanos-front.onrender.com/) |
 
-| Proyecto        | Descripción                              | GitHub                                   | Deploy                                  |
-|-----------------|----------------------------------------|-----------------------------------------|----------------------------------------|
+| Proyecto        | Descripción                            |  GitHub                                |
+|-----------------|----------------------------------------|-----------------------------------------|
 | VGB-STORE--Ecommerce | Tienda online con productos, filtros y carrito . |  https://github.com/VMGaray/VGB-STORE--Ecommerce.git )
 ---
 
