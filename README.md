@@ -59,8 +59,9 @@ Soy una persona curiosa, proactiva y con muchas ganas de seguir creciendo en el 
 
 ### 📫 ¿Querés contactarme?
 
-- ✉️ victoriamegaray@gmail.com  
-- 💼 [LinkedIn](https://github.com/VMGaray)  
+- ✉️ [email] victoriamegaray@gmail.com  
+- 💼 [LinkedIn] https://www.linkedin.com/in/victoria-mercedes-garay/
+- 👩‍💻 [Portfolio] https://mi-portfolio-victoria-garay.vercel.app/
 - 📍 Córdoba, Argentina]
 
 ---
